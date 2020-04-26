@@ -1,0 +1,125 @@
+body{font-family:"Poppins",sans-serif;
+font-size:16px;
+line-height:1.5;
+margin:0px;}
+.menu {font-weight:bold;
+color:white;
+background-color:#45015d;
+border-radius:0px 15px 0px 0px;
+padding:10px 20px;
+position:fixed;
+left:0;
+height:100%;
+top:0;}
+.menu a{color:inherit;
+display:block;
+padding:10px 16px;
+text-decoration:none;
+width:100%;
+box-sizing:border-box;}
+.menu a:hover{color:black;
+background-color:white;}
+.main {margin-left:360px;
+margin-top:80px;
+margin-right:40px}
+.main h1 {font-weight:normal;
+font-size:64px;}
+.imgs img {width:45%;
+border-radius:6px;
+margin:5px;
+opacity:0.7;}
+.imgs img:hover{opacity:1;}
+h2{color:#45015d;
+font-size:48px;
+font-weight:normal;
+margin:10px 0;}	
+ hr {width:100%;
+ border-width:5px;
+ border-style:solid;
+ border-color:#45015d;
+ border-radius:4px;
+ margin:20px 0; }
+ .member{display:inline-block;
+width:30%;
+min-width:300px; 
+padding:8px;}
+ .member img {width:100%;
+border-radius:10px;
+opacity:0.7;
+filter:grayscale(30%);}
+.description {background-color:lightgrey;
+border-radius:10px;
+padding:2px 16px 5px}
+.member img:hover{opacity:1;
+filter:grayscale(0%);}
+.position {color:grey;} 
+#tariffs .tariff {width:49%;
+display:inline-block;
+background-color:white;
+text-align:center;
+padding:0 16px;
+min-width:150px;
+vertical-align:middle;
+box-sizing:border-box;}
+.tariff ul{list-style-type:none; 
+background-color:lightgrey;
+padding:0px ;
+margin:0px
+color:black;
+background-color:#f1f1f1;
+border-radius:10px;}
+.tariff li {list-style-type: none;
+border-bottom-width: 1px;
+border-bottom-style: solid;
+border-bottom-color: #dddddd;
+border-radius:10px;
+padding: 16px 0;}
+.tariff-name {color:white; 
+background-color:#45015d;
+font-size:24px;
+padding:32px 0;
+border-top-left-radius:10px;
+border-top-right-radius:10px;}
+.pro .tariff-name {background-color:red;}
+.tariff .price {font-size: 30px;
+font-weight: 400;}
+.tariff .period {opacity: 0.7;}
+.tariff  button {color: #45015d;
+background-color: white;
+border-radius:20px;
+padding: 15px 20px;
+border: none;
+outline:none;
+cursor: pointer;
+font-family: inherit;
+font-size: 16px;}
+button:hover {color: white;
+background-color:#45015d;}
+.pro  button:hover{background-color:red;
+color: white;}
+
+#contact input {width:100%;
+display:block;
+padding:8px;
+border:1px solid #ccc;
+outline:none;
+font-size:16px;
+box-sizing:border-box;}
+#contact button {background-color:#45015d;
+color:white;
+width:100%;
+padding:12px 24px;
+border-radius:10px;
+border:none;
+outline:none;
+font-family:inherit;
+font-size:16px;
+cursor:all-scroll;}
+#contact button:hover {background-color:lightgrey;
+color:#45015d;}
+
+
+
+
+
+
